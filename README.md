@@ -33,13 +33,13 @@ Dieses Projekt ist eine datengestützte Analyse von Mietwohnungen in Deutschland
 
 ## 🧭 Struktur der Analyse (Menüpunkte)
 
-1. Gesamtanzahl der Mietwohnungen pro Bundesland  
-2. Durchschnittliche Mietpreise nach Bundesland  
-3. Einfluss von Ausstattungsmerkmalen auf Mietpreise  
-4. Histogramme und Boxplots für Bundesländer mit hoher und niedriger Angebotszahl  
-5. Scatterplots: Wohnfläche vs. Gesamtmiete  
-6. Heizungsarten nach Bundesland  
-7. Beenden
+1-Zeige die Gesamtzahl der Mietwohnungen nach Bundesland
+2-Zeige die durchschnittliche Miete nach Bundesland.
+3-Zeige die durchschnittliche Miete nach Merkmalen
+4-Zeige die Zahl der Mietwohnungen
+5-Zeige die Miete nach Wohnfläche und Zeige Durchschnittlicher m²-Preis nach Bundesland
+6-Zeige die Verteilung der Wohnungen nach Heizungsart
+7-Beenden
 
 
 ## 🗂️ Enthaltene Dateien
