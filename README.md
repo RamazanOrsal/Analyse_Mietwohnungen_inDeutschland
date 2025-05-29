@@ -51,5 +51,5 @@ Dieses Projekt ist eine datengestützte Analyse von Mietwohnungen in Deutschland
 - `data_proje.py` – Visualisierungs- und Analysecode
 - **Datensatz** – extern auf Kaggle verfügbar
 
-📁 Präsentation mit PowerPoint  
+
 
