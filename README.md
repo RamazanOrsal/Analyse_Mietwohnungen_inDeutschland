@@ -34,7 +34,7 @@ Dieses Projekt ist eine datengestützte Analyse von Mietwohnungen in Deutschland
 ## 🧭 Struktur der Analyse (Menüpunkte)
 
 1-Zeige die Gesamtzahl der Mietwohnungen nach Bundesland
-2-Zeige die durchschnittliche Miete nach Bundesland.
+2-Zeige die durchschnittliche Miete nach Bundesland
 3-Zeige die durchschnittliche Miete nach Merkmalen
 4-Zeige die Zahl der Mietwohnungen
 5-Zeige die Miete nach Wohnfläche und Zeige Durchschnittlicher m²-Preis nach Bundesland
