@@ -51,5 +51,16 @@ Dieses Projekt ist eine datengestützte Analyse von Mietwohnungen in Deutschland
 - `data_proje.py` – Visualisierungs- und Analysecode
 - **Datensatz** – extern auf Kaggle verfügbar
 
+## 🚀 Starten des Projekts
+
+1. Klonen Sie das Repository:
+   ```bash
+   git clone https://github.com/RamazanOrsal/Analyse_Mietwohnungen_inDeutschland.git
+   cd Analyse_Mietwohnungen_inDeutschland
+
+2.Führen Sie das Hauptskript aus:
+  python startseite.py
+
+
 
 
